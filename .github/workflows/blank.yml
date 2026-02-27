@@ -13,4 +13,4 @@ jobs:
       - name: last stage
         run: echo "thank you all - bye!"
       - name: checkout
-        run: echo "checkout the code - bye!"
+        run: echo "checkout the code again - bye!"
