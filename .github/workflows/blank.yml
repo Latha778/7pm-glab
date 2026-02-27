@@ -14,7 +14,7 @@ jobs:
         run: echo "thank you all - bye!"
       - name: checkout
         run: echo "checkout the code again - bye!"
- second-job:
+  second-job:
     runs-on: ubuntu-latest
     steps:
       - name: Print greetings
